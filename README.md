@@ -33,10 +33,10 @@ The 12V battery acts as the primary power rail. It is wired **in parallel** to:
 ### ESP32 Pin Mapping
 
 left motor driver             ESP32 
-RPWM                          25
-LPWM                          26
-REN                           18
-LEN                           21
+*RPWM                          25
+*LPWM                          26
+*REN                           18
+*LEN                           21
 
 right motor driver            ESP32
 RPWM                          27      
@@ -48,4 +48,4 @@ LEN                           12
 
 1. **Clone the repository:**
    ```bash
-   git clone [https://github.com/NaviyaGaming/ESP32-6WD-Robot.git](https://github.com/NaviyaGaming/ESP32-6WD-Robot.git)
+   git clone [https://github.com/NaviyaGaming/bluetoothcar]
