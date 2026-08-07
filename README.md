@@ -32,17 +32,17 @@ The 12V battery acts as the primary power rail. It is wired **in parallel** to:
 
 ### ESP32 Pin Mapping
 
-left motor driver             ESP32 
-*RPWM                          25
-*LPWM                          26
-*REN                           18
-*LEN                           21
-
-right motor driver            ESP32
-RPWM                          27      
-LPWM                          14
-REN                           13
-LEN                           12
+**left motor driver             ESP32**
+**RPWM                          25**
+**LPWM                          26**
+**REN                           18**
+**LEN                           21**
+**  **
+**right motor driver            ESP32**
+**RPWM                          27**    
+**LPWM                          14**
+**REN                           13**
+**LEN                           12**
 
 ## 🚀 Installation & Setup
 
